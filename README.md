@@ -1,75 +1,24 @@
-# Nuxt 3 Minimal Starter
+# THE F2E - 立委競選官網
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![立委競選官網封面](public/cover.jpg)
 
-## Setup
+遲到了快一年的作品繳交。
+活動連結：[THE F2E](https://2023.thef2e.com/)
 
-Make sure to install the dependencies:
+## 系統說明
+
+#### 專案運行
+
+您可以按照以下步驟運行專案：
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+## 使用技術
 
-Build the application for production:
+- Nuxt3
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 其他說明
+感謝 Yu 製作的精美[設計稿](https://www.figma.com/design/ZKKEpY1OCdJSTAG9vyeWe7/2023-F2E?node-id=87-5339&t=nkuzv7Y6uNYe7WuE-1) 🩵
